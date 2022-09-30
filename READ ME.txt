@@ -30,7 +30,7 @@ For the written section of this assignment, type up your answers and submit a co
 (7 pts): Weiss Exercise 6.8 (just an explanation is good enough)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Programming (65 pts)
+Programming (65 pts) [full credit]
 
 For the programming portion of the assignment, please submit only your .java files and your README.txt.  Your code should be well commented.  In addition please include a detailed README.txt file which indicates exactly what files you are submitting, what problem they solve, and how to compile and run them.
 
