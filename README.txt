@@ -17,8 +17,6 @@ For all .java
 2. Run with java filename
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://courseworks2.columbia.edu/courses/38306/assignments/119678
-
 Written (35 pts)
 
 For the written section of this assignment, type up your answers and submit a computer based document to us. You can submit pdf files, or txt files.
